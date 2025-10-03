@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Vrajesh+Kumarkhaniya!;Front-End+Developer"/>
 
-<img src="https://media.giphy.com/media/v1.GIF/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
 
 ---
 
@@ -13,36 +13,34 @@
 <details open>
 <summary><b>💡 About Me</b></summary>
 
-- 👩‍💻 I build beautiful, accessible web apps with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, and <b>Tailwind CSS</b>
-- 🎨 UI/UX is my passion — I love pixel-perfect layouts and smooth user experiences
-- ☕ Fueled by coffee and creativity
-- 🚀 Exploring <b>Next.js</b>, <b>TypeScript</b>, and design systems
-- 🧠 Lifelong learner & problem solver
-- 🏆 Hackathon winner & open source contributor
-- 🌏 Based in India, collaborating globally
-- 🗣️ Fluent in English, Hindi, and a bit of French
-- 📝 I blog about web dev, design, and productivity
-- 🧩 Hobbies: digital art, travel, and board games
-- 🐱 Cat person (but I love dogs too!)
-- 🖌️ I design in Figma and love prototyping new ideas
-- 🏫 Computer Science graduate
-- 🧑‍🏫 I mentor juniors and run coding workshops
-- 🏅 Google Women Techmakers & GirlScript member
-- 🏃‍♀️ I enjoy running and fitness challenges
-- 🎬 Favorite movies: sci-fi, animation, and Bollywood classics
-- 🎮 Sometimes a casual gamer (Valorant, Among Us, Mario Kart)
-- ✨ Motto: <i>"Code like a girl – with heart, style, and strength."</i>
+- 👨‍💻 I build beautiful, accessible web apps with <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, and <b>Tailwind CSS</b>  
+- 🎨 UI/UX is my passion — I love pixel-perfect layouts and smooth user experiences  
+- ☕ Fueled by coffee and creativity  
+- 🚀 Exploring <b>Next.js</b>, <b>TypeScript</b>, and design systems  
+- 🧠 Lifelong learner & problem solver  
+- 🏆 Hackathon winner & open source contributor  
+- 🌏 Based in India, collaborating globally  
+- 🗣️ Fluent in English, Hindi, and a bit of French  
+- 📝 I blog about web dev, design, and productivity  
+- 🧩 Hobbies: digital art, travel, and board games  
+- 🐱 Cat person (but I love dogs too!)  
+- 🖌️ I design in Figma and love prototyping new ideas  
+- 🏫 Computer Science graduate  
+- 🧑‍🏫 I mentor juniors and run coding workshops  
+- 🎬 Favorite movies: sci-fi, animation, and Bollywood classics  
+- 🎮 Sometimes a casual gamer (Valorant, Among Us, Mario Kart)  
+- ✨ Motto: <i>"Code with passion, design with love."</i>  
 
 </details>
 
 <hr/>
 
 <details open>
-<summary><b>� Featured Projects</b></summary>
+<summary><b>🌟 Featured Projects</b></summary>
 
-- 💼 [Portfolio Website](https://yourportfolio.com) – My personal showcase, built with React + Tailwind
-- 🛍️ [ShopEase](https://github.com/yourusername/shopease) – A clean e-commerce app
-- 📋 [To-Doify](https://github.com/yourusername/todoify) – A beautiful, minimal task manager
+- 💼 [Portfolio Website](https://yourportfolio.com) – My personal showcase, built with React + Tailwind  
+- 🛍️ [ShopEase](https://github.com/VrajeshKumarkhaniya/shopease) – A clean e-commerce app  
+- 📋 [To-Doify](https://github.com/VrajeshKumarkhaniya/todoify) – A beautiful, minimal task manager  
 
 </details>
 
@@ -67,7 +65,7 @@
 <details open>
 <summary><b>💬 Let’s Connect!</b></summary>
 
-- 📫 Email: [vrajeshkumarkhaniya516.com](mailto:aisha.dev@example.com)
+- 📫 Email: [vrajeshkumarkhaniya516@gmail.com](mailto:vrajeshkumarkhaniya516@gmail.com)  
 
 </details>
 
@@ -76,18 +74,18 @@
 <details open>
 <summary><b>🌸 A Little More About Me</b></summary>
 
-- 🎧 Coding with lo-fi beats is my happy place
-- 📸 I love photography and creative writing on the side
-- 🥗 Foodie: always up for trying new recipes
-- 🏞️ Nature walks and city adventures
-- 🧘‍♀️ Practicing mindfulness and yoga
-- 🥳 I love hackathons, meetups, and tech events
-- 🥇 Favorite quote: <i>"Stay curious, stay kind."</i>
-- 🧋 Bubble tea and iced coffee enthusiast
-- 🏖️ Dream travel: Japan, Norway, and New Zealand
-- 🧩 Puzzle solver (crosswords, sudoku, logic games)
-- 🖼️ I collect art prints and postcards
-- 🧦 Fun fact: I have a quirky sock collection!
+- 🎧 Coding with lo-fi beats is my happy place  
+- 📸 I love photography and creative writing on the side  
+- 🥗 Foodie: always up for trying new recipes  
+- 🏞️ Nature walks and city adventures  
+- 🧘 Practicing mindfulness and yoga  
+- 🥳 I love hackathons, meetups, and tech events  
+- 🥇 Favorite quote: <i>"Stay curious, stay kind."</i>  
+- 🧋 Bubble tea and iced coffee enthusiast  
+- 🏖️ Dream travel: Japan, Norway, and New Zealand  
+- 🧩 Puzzle solver (crosswords, sudoku, logic games)  
+- 🖼️ I collect art prints and postcards  
+- 🧦 Fun fact: I have a quirky sock collection!  
 
 </details>
 
@@ -95,4 +93,4 @@
 
 ---
 
-![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine)
+![Vrajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VrajeshKumarkhaniya&show_icons=true&theme=rose_pine)
