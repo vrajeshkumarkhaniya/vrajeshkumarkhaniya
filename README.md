@@ -1,6 +1,6 @@
 # Hi, I'm Vrajesh 👋  
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=#FFFFFF&center=false&vCenter=true&width=435&lines=Hi%2C+I'm + Vrajesh Kumarkhaniya !+%F0%9F%92%96;Front-End+Developer+%7C+UI%2FUX+Enthusiast+%7C+Code+%2B+Coffee+Lover"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Vrajesh+Kumarkhaniya+!+%F0%9F%92%96;Front-End+Developer+%7C+UI%2FUX+Enthusiast+%7C+Code+%2B+Coffee+Lover"/>
 
 <img src="https://media.giphy.com/media/v1.GIF/giphy.gif" width="350"/>
 
