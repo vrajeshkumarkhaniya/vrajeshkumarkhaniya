@@ -69,9 +69,7 @@
 <details open>
 <summary><b>💬 Let’s Connect!</b></summary>
 
-- 📫 Email: [aisha.dev@example.com](mailto:aisha.dev@example.com)
-- 🌐 Website: [aisha.dev](https://aisha.dev)
-- 💼 LinkedIn: [linkedin.com/in/aishadev](https://linkedin.com/in/aishadev)
+- 📫 Email: [vrajeshkumarkhaniya516.com](mailto:aisha.dev@example.com)
 
 </details>
 
