@@ -6,7 +6,7 @@
 
 **🌸 Welcome to my creative corner on GitHub! 🌸**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" height="32"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="32"/>
 
 <hr/>
 
