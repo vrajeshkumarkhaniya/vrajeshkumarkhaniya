@@ -34,16 +34,6 @@
 </details>
 
 <hr/>
-
-<details open>
-<summary><b>🌟 Featured Projects</b></summary>
-
-- 💼 [Portfolio Website](https://yourportfolio.com) – My personal showcase, built with React + Tailwind  
-- 🛍️ [ShopEase](https://github.com/VrajeshKumarkhaniya/shopease) – A clean e-commerce app  
-- 📋 [To-Doify](https://github.com/VrajeshKumarkhaniya/todoify) – A beautiful, minimal task manager  
-
-</details>
-
 <hr/>
 
 <details open>
@@ -55,7 +45,6 @@
   <img src="https://img.shields.io/badge/JavaScript-FFB347?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-88B04B?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-92A8D1?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-DAA5A4?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 </details>
