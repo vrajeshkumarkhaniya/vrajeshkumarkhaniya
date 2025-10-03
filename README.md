@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Vrajesh+Kumarkhaniya+👋!;Front-End+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Vrajesh+Kumarkhaniya!;Front-End+Developer"/>
 
 <img src="https://media.giphy.com/media/v1.GIF/giphy.gif" width="350"/>
 
